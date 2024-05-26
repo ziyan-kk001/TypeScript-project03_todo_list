@@ -1,0 +1,15 @@
+{
+  "name": "project03_todo_list",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "My todo list",
+  "scripts": {
+    "test": "to-do-list.js"
+  },
+  "author": "Ziyan kk",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
